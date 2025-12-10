@@ -1,0 +1,8 @@
+To run the Base Level, Extension 1, Extension 2, and Extension 3, enter the corresponding folder and open a terminal from there. To execute the planner, run the following instruction:
+
+	./ff -o dominio.pddl -f problema.pddl
+
+
+To run Extension 4 and Extension 5, execute the following instruction (flag used to optimize the fluent):
+
+	./ff -O -o dominio.pddl -f problema.pddl
