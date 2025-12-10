@@ -73,7 +73,7 @@ The practice reinforces:
 ---
 
 ## 📬 Authors
-Developed by **[Your Name / Team Name]** as part of the *Artificial Intelligence* course (UPC).
+Developed by **Oriol Masague Sans** as part of the *Artificial Intelligence* course (UPC).
 
 ---
 
