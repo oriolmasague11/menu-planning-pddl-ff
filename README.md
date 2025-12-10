@@ -1,4 +1,4 @@
-# 🥘 Weekly Menu Planning with PDDL & Fast Forward
+# Weekly Menu Planning with PDDL & Fast Forward
 
 This project implements a planning domain in **PDDL** to automatically generate weekly menus (Monday–Friday) using the **Fast Forward (FF)** planner.  
 It was developed as part of the *Artificial Intelligence* course at UPC.
@@ -9,7 +9,7 @@ The planner used is **Fast Forward (FF) v2.3** and **Metric-FF** for fluents and
 
 ---
 
-## 📌 Features & Levels Implemented
+## Features & Levels Implemented
 
 The project is structured according to the required levels of the practice:
 
@@ -34,7 +34,7 @@ The project is structured according to the required levels of the practice:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 To execute any level, navigate to the corresponding folder (Base, Extension1, Extension2, Extension3, …) and open a terminal **from inside that folder**.
 
@@ -51,7 +51,7 @@ Use the optimization flag (`-O`) to enable fluent reasoning and cost minimizatio
 
 ---
 
-## 📄 Contents
+## Contents
 
 - `dominio.pddl` – Domain specification including predicates, actions, types, and (when required) fluents for caloric and cost reasoning.
 - `problema*.pddl` – Multiple problem instances used to test each level (Base, Extension 1–5).  
@@ -61,7 +61,7 @@ Use the optimization flag (`-O`) to enable fluent reasoning and cost minimizatio
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 This project applies classical AI planning concepts using **PDDL** and the **Fast Forward (FF)** planner.  
 The practice reinforces:
 
@@ -72,7 +72,7 @@ The practice reinforces:
 
 ---
 
-## 📬 Authors
+## Authors
 Developed by **Oriol Masague Sans** as part of the *Artificial Intelligence* course (UPC).
 
 ---
